@@ -17,3 +17,5 @@ Using the new Express 4.0 Router to build an API
 
 ## Testing the API
 Use Postman to test your apis.
+- GET - http://localhost:8080/api/
+- POST- http://localhost:8080/api/hello  (in body pass 'name' as key and 'yout name' as value)
